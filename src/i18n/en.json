@@ -1,0 +1,11 @@
+{
+  "case_online_capacity": "Case Online Cap.",
+  "case_online_count": "Case Online Count",
+  "case_online_rate": "Case Online Rate",
+  "case_this_month_appr_rate": "This MTH Appr. Rate",
+  "case_this_year_appr_rate": "This Year Appr. Rate",
+  "case_this_month_avai_rate": "This MTH Avai. Rate",
+  "case_yesterday_avai_rate": "Ytd Avai. Rate",
+
+  "unit_case": "case(s)"
+}

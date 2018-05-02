@@ -1,0 +1,10 @@
+{
+  "case_online_capacity": "案場上線總容量",
+  "case_online_count": "案場上線總數量",
+  "case_online_rate": "案場上線率",
+  "case_this_month_appr_rate": "案場本月總達成率",
+  "case_this_year_appr_rate": "案場今年總達成率",
+  "case_this_month_avai_rate": "案場本月總妥善率",
+  "case_yesterday_avai_rate": "昨日妥善率",
+  "unit_case": "場"
+}
